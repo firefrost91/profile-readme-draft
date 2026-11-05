@@ -1,0 +1,15 @@
+name: Profile summary cards
+on:
+  schedule: [{cron: "17 4 * * *"}]   # daily
+  workflow_dispatch:
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}

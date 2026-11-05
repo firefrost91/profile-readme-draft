@@ -67,27 +67,23 @@
 
 ### 📊 GitHub
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/firefrost91/profile-readme-draft/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/firefrost91/profile-readme-draft/output/snake-light.svg">
+  <img alt="Contribution graph being eaten by a snake" src="https://raw.githubusercontent.com/firefrost91/profile-readme-draft/output/snake-dark.svg" width="100%">
+</picture>
+
 <p align="center">
-  <img src="https://github-readme-stats-gswf.vercel.app/api?username=firefrost91&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats-gswf.vercel.app/api/top-langs?username=firefrost91&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" height="165" alt="Top languages" />
+  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="Profile details" />
 </p>
-
-<details>
-<summary><b>🎲 Fun facts</b></summary>
-<br/>
-
-- 🎖️ Went to a military boarding school (Sainik School Nagrota), so my pipelines march in formation.
-- 📄 My OCR models have read more insurance paperwork than any human ever should.
-- 📈 Spent a summer teaching agents index methodology docs. They now know more about SPAC rules than most people.
-- ⚡ Electronics grad who swapped oscilloscopes for loss curves and has no regrets.
-
-</details>
-
-<details>
-<summary><b>📈 Detailed activity metrics</b></summary>
-<br/>
-<img src="github-metrics.svg" alt="Metrics" width="100%">
-</details>
+<p align="center">
+  <img src="profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="GitHub stats" />
+  <img src="profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" alt="Productive time" />
+</p>
+<p align="center">
+  <img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt="Repos per language" />
+  <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Most commit language" />
+</p>
 
 <br/>
 
