@@ -74,15 +74,11 @@
 </picture>
 
 <p align="center">
-  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="Profile details" />
+  <img src="stats/0-profile-details.svg" width="100%" alt="Profile details" />
 </p>
 <p align="center">
-  <img src="profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="GitHub stats" />
-  <img src="profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" alt="Productive time" />
-</p>
-<p align="center">
-  <img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt="Repos per language" />
-  <img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Most commit language" />
+  <img src="stats/1-repos-per-language.svg" width="49%" alt="Top languages by repo" />
+  <img src="stats/4-productive-time.svg" width="49%" alt="Commits by hour" />
 </p>
 
 <br/>
