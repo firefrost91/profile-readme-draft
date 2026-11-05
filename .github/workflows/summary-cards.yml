@@ -2,6 +2,7 @@ name: Profile summary cards
 on:
   schedule: [{cron: "17 4 * * *"}]   # daily
   workflow_dispatch:
+  push: {branches: [main]}
 jobs:
   cards:
     runs-on: ubuntu-latest

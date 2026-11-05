@@ -2,6 +2,7 @@ name: Contribution snake
 on:
   schedule: [{cron: "43 */12 * * *"}]   # twice a day
   workflow_dispatch:
+  push: {branches: [main]}
 jobs:
   snake:
     runs-on: ubuntu-latest
